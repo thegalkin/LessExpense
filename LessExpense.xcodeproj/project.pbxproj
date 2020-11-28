@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3982D5F9256EDB3B00C5BD6D /* AddExpense.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3982D5F8256EDB3B00C5BD6D /* AddExpense.swift */; };
 		39929A9F255B2C8700BC6373 /* LessExpenseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39929A9E255B2C8700BC6373 /* LessExpenseApp.swift */; };
 		39929AA1255B2C8700BC6373 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39929AA0255B2C8700BC6373 /* ContentView.swift */; };
 		39929AA3255B2C8800BC6373 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39929AA2255B2C8800BC6373 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3982D5F8256EDB3B00C5BD6D /* AddExpense.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpense.swift; sourceTree = "<group>"; };
 		39929A9B255B2C8700BC6373 /* LessExpense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LessExpense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39929A9E255B2C8700BC6373 /* LessExpenseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessExpenseApp.swift; sourceTree = "<group>"; };
 		39929AA0255B2C8700BC6373 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				39929A9E255B2C8700BC6373 /* LessExpenseApp.swift */,
 				39929AA0255B2C8700BC6373 /* ContentView.swift */,
+				3982D5F8256EDB3B00C5BD6D /* AddExpense.swift */,
 				39929AA2255B2C8800BC6373 /* Assets.xcassets */,
 				39929AA7255B2C8800BC6373 /* Info.plist */,
 				39929AA4255B2C8800BC6373 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3982D5F9256EDB3B00C5BD6D /* AddExpense.swift in Sources */,
 				39929AA1255B2C8700BC6373 /* ContentView.swift in Sources */,
 				39929A9F255B2C8700BC6373 /* LessExpenseApp.swift in Sources */,
 			);
